@@ -31,7 +31,7 @@ PickleFlix is a school project that replicates the popular streaming platform Ne
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/pickleflix.git
+    git clone https://github.com/MatthewJohn92/Pickleflix.git
     ```
 
 2. Navigate to the project directory:
@@ -115,7 +115,7 @@ PickleFlix è un progetto scolastico che replica la popolare piattaforma di stre
 1. Clona il repository:
 
     ```bash
-    git clone https://github.com/tuo-username/pickleflix.git
+    git clone https://github.com/MatthewJohn92/Pickleflix.git
     ```
 
 2. Naviga nella directory del progetto:
